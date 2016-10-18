@@ -30,6 +30,34 @@
 #     - question: Sum up your Makers Academy experience
 #       answer:
 
+- first_name: Maria
+  last_name: Romero
+  image: remote.jpg
+  summary: Food trader to Junior Developer at News UK
+  testimonial: Makers Academy has been a life changing experience.
+  cohort_month: Remote July
+  cohort_year: 2016
+  categories:
+    - remote
+    - women
+  case_study:
+    - question: What were you doing before joining Makers Academy?
+      answer:  I had my own business as a street food trader in Brighton.
+    - question: How did you find learning remotely?
+      answer: It wasn't difficult because with all the available technologies there wasn't any inconvenience.
+    - question: How has your life changed since learning to code?
+      answer: I never studied anything like this before or had a job that required me to think so much so the change has been huge. Makers Academy has been a life changing experience.
+    - question: Where are you now working?
+      answer: News UK
+    - question: What advice would you give to people thinking of changing career?
+      answer: As long as you can support your self without working for 4 to 5 months go for it. It's a short term sacrifice but you come out at the end with a job and an awesome salary that will only go up quickly.
+    - question: What do you say to people who say £4000 is expensive?
+      answer: As long as you are in a tech hub or willing to move to one you will get this money back within less than 2 months on your new salary. It's a no brainer!
+    - question: What was your biggest worry before joining Makers Academy Remote and how do you feel about it now?
+      answer: I never thought I could code, it looked too difficult for me, I thought it was for smart people only, and don't get me wrong it is not easy and I don't know everything I should know to do my job but I can continue learning whilst getting paid!
+    - question: Sum up your Makers Academy Remote experience?
+      answer: It was like many people say intense! There was little time left to spend with my family and do other things apart from coding, so its hard to adjust but it will definitely pay off 3 months later.
+
 - first_name: Sergio
   last_name: Enrech Trillo
   image: sergio.jpg
