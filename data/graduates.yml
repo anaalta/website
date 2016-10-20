@@ -30,6 +30,38 @@
 #     - question: Sum up your Makers Academy experience
 #       answer:
 
+- first_name: Hannah
+  last_name: Carney
+  image: hannahc.jpg
+  summary: 3D Designer to Junior Developer at Play Consulting
+  testimonial:
+  cohort_month: March
+  cohort_year: 2015
+  categories:
+    - women
+  case_study:
+    - question: What were you doing before joining Makers Academy?
+      answer: I did a lot of things, I was an archeologist, a 3D designer but didn't like the company where I was working.
+    - question: What made you want to start learning to code in the first place?
+      answer: I had the opportunity to learn coding as a kid and wanted to try it as an adult. While going through a quarter life crisis, I tried lots of things and had an Art History degree. I tried being an artist and museum work. Coding reminded me of my youth. I liked it as a kid and thought I'd enjoy it as an adult.
+    - question: How did you come across Makers Academy and what made you decide to apply?
+      answer: I love the concept of growing with a start up and liked the startup life. I could've picked General Assembly but it wasn't a startup, they're well established and around the world. Makers Academy drew me in because it was young and it seemed to be cool to grow with the school. They could teach me and I could teach them. When I started we were in the smaller, old building and saw all of the renovations going on. The company feels agile and it taught me a lot about startup life.
+    - question: What did you find difficult during the course?
+      answer: The most difficult part of the course was that I kept comparing myself to others. At uni you're expected to get an A and higher marks than your class. I really felt like that I was comparing myself to others too much. I had to get myself out of that mindset and into a personal growth mindset. That was the most important part.
+    - question: What happened during/after graduation and where are you job-wise?
+      answer: We did a cool project that was an [app that was integrated with Spotify](https://turnuptunein.herokuapp.com/) that allows you, as a party planner to start a party. You can send a link to a playlist to the party guests that uses geolocation via a beacon which in turn will only add your songs to the community playlist while you're at the party. Job wise I wanted to work for a startup and enjoyed the startup vibe. I joined a startup called Play Consulting. I was the 7th employee and now they are 22. There's 2 sides to the company, a client side and an IP side. I'm on the client side. We work for a consultancy company through the startup who ask us to do a lot of different projects with them.
+    - question: How has your life changed since graduation?
+      answer: I have a career now which is what I was looking for my whole life. Work feels like fun and I've finally found a job I love.
+    - question: What advice would you give to people thinking of changing career?
+      answer: Development is a really cool mixture of Art and Math, creative and technical. It's an amazing convergence of these 2 worlds. You can create math algorithms or be a Front End developer and it's about extending both sides of your mind and don't settle for being technical or creative. I think it's getting close everyday to when tech and art become one. If you see how music has developed into tech and creation, it's the same with software development.
+    - question: What do you say to people who say £8000 is expensive?
+      answer: It is a lot of money but I would say that it's worth every penny as a small investment for the rest of your life. You get so much support here with a consistent help network. Small classes and AMAZING coaches who are all professionals in the industry. They give you a lot of help job hunting. When you leave, you don't actually leave Makers.
+    - question: What was your biggest worry before joining Makers Academy and how do you feel about it now?
+      answer: I was worried about the time commitment more than anything but it turned out that all I wanted to do was code. It was a good preparation to going into the workforce because I actually code less now than when I was studying! I wanted to utilise all of the knowledge that was spread around here.
+    - question: Sum up your Makers Academy experience
+      answer: Makers Academy not only focuses on your learning for code but they also focus on your mental health and well-being with the yoga & meditation classes. It's the only place that I know that has a Chief Joy Officer. It's an environment where you get to learn for and work with an amazing team of people everyday and you get the support in all parts of your life. One of the first things that Jordan said when I started was that we all had to do physical exercise and that was going to be heavily integrated into our experience here because it's not healthy to have a non physical lifestyle and it's great Makers pushes both parts of that.
+
+
 - first_name: Maria
   last_name: Romero
   image: remote.jpg
