@@ -30,6 +30,33 @@
 #     - question: Sum up your Makers Academy experience
 #       answer:
 
+- first_name: Mara
+  last_name: Wanot
+  image: mara.jpg
+  summary: Tech Recruiter to Junior Developer at The Financial Times
+  testimonial: "Makers Academy is a life investment that will free you out of a boring job"
+  cohort_month: July
+  cohort_year: 2016
+  categories:
+    - women
+  case_study:
+    - question: What were you doing before joining Makers Academy?
+      answer: I was working as a tech recruiter.
+    - question: What made you want to start learning to code in the first place?
+      answer: In previous jobs I had to use awful databases. I wanted to build better systems to make life easier for people.
+    - question: How did you come across Makers Academy and what made you decide to apply?
+      answer: A company I was working for was [hiring](www.makersacademy.com/employers) from Makers. I researched all other coding bootcamps and came to a very firm decision to go with Makers.
+    - question: What did you find difficult during the course?
+      answer: I was constantly feeling stupid and then returned home brain fried every day.
+    - question: What happened during/after graduation and where are you job-wise?
+      answer: I used all of my contacts and Makers Academy Hiring Partners to get introductions into companies without having to apply the traditional way and kept a spreadsheet to track progress. The careers team helped me get a job at The Financial Times.
+    - question: What advice would you give to people thinking of changing career?
+      answer: It's life changing - just go and do it. Make sure to save more than you think you need, last thing you want is to run out of money.
+    - question: What do you say to people who say £8000 is expensive?
+      answer: It's a life investment that will free you out of a boring job. Think about the university degrees we all have, they were far more expensive, time consuming and totally worthless in the real world.
+    - question: What was your biggest worry before joining Makers Academy and how do you feel about it now?
+      answer: Not keeping up. I made peace with the feeling of discomfort and went steadily at my own pace.
+
 - first_name: Hannah
   last_name: Carney
   image: Hannahc.jpg
