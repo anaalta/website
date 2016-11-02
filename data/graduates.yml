@@ -30,7 +30,38 @@
 #     - question: Sum up your Makers Academy experience
 #       answer:
 
-
+- first_name: Richard
+  last_name: Watkins
+  image: richardw.jpg
+  summary: Science Teacher to Junior Developer at Shift
+  testimonial: "I landed the job 28 days after finishing the course."
+  cohort_month: Remote April
+  cohort_year: 2016
+  categories:
+    - remote
+  case_study:
+    - question: What were you doing before joining Makers Academy?
+      answer: I was working as Assistant Head of Science (Science Teacher).
+    - question: What made you want to start learning to code in the first place?
+      answer: I liked the fact that there was loads to learn so you could never really get bored. Careers are long so I wanted something engaging and that could keep me challenged for a life time.
+    - question: How did you come across Makers Academy and what made you decide to apply?
+      answer: I read a blog post by a lady in America that went from waitress to developer in 3 months and it sounded awesome so I started googling European bootcamps and found Makers.
+    - question: What did you find difficult during the course?
+      answer: Learning frameworks, especially AngularJS in such a short amount of time is tough. Really you need to build several applications before you feel that you've 'learnt' that framework.
+    - question: What happened during/after graduation and where are you job-wise?
+      answer: I applied for 18 jobs via job boards and managed to get an interview and landed the job 28 days after finishing the course.
+    - question: Where are you now working?
+      answer: The company is called Shift which is building the e-commerce platform for Matalan Direct.
+    - question: How has your life changed since graduation?
+      answer: The biggest change is that now I realise nothing is impossible to learn, it just requires time and patience. Before I started I was terrible with computers, I got really frustrated when something didn't work. Now I see it as an opportunity to solve a problem.
+    - question: What advice would you give to people thinking of changing career?
+      answer: If you have half a mind to change just do it. Otherwise you'll always wonder, you can always go back to what you were doing later.
+    - question: What do you say to people who say £4000 is expensive?
+      answer: As part of the earlier Remote course I paid £2500 which was the price before. But I had a mortgage and other bills during the course so the total investment in changing careers has been nearly £10k, which seems like a lot but I still owe £23k in student loans, so compared to that it's much cheaper.
+    - question: What was your biggest worry before joining Makers Academy and how do you feel about it now?
+      answer: Before joining Makers I wasn't really worried, I researched the developer jobs in my area and believed I'd manage to fine a job. I knew if I dedicated myself 100% I'd be able to learn in a short amount of time. I asked question and did my research, I'd advise anyone thinking about joining to do the same so that they can go into the experience without worrying.
+    - question: Sum up your Makers Academy experience
+      answer: Frustrating and daunting but amazing and I wouldn't change any of it.
 
 - first_name: Sivan
   last_name: Patel
