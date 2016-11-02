@@ -30,6 +30,35 @@
 #     - question: Sum up your Makers Academy experience
 #       answer:
 
+- first_name: Eleanor
+  last_name: Vilimaite
+  image: eleanor.jpg
+  summary: Front end Developer to Junior Developer at Career Interactive
+  testimonial: "It's been good. I've met a lot of different people."
+  cohort_month: August
+  cohort_year: 2016
+  categories:
+    - women
+  case_study:
+    - question: What were you doing before joining Makers Academy?
+      answer: I was working as a front end developer at a startup called Tibit.
+    - question: What made you want to start learning to code in the first place?
+      answer: I started doing front end as it's fun to use and easy to impress people who don't know about code. I like to build stuff.
+    - question: How did you come across Makers Academy and what made you decide to apply?
+      answer: The lead developer at Tibit came to Makers Academy also my mum found out about Makers and was the driving force behind me coming here.
+    - question: What did you find difficult during the course?
+      answer: I found working with people and having to explain everything I do at every stage of development starting from why I'm naming my variable and why I use that particular if statement difficult to get used too.
+    - question: What happened during/after graduation and where are you job-wise?
+      answer: I have a frontend job at Career Interactive and the opportunity to move into backend later.
+    - question: What advice would you give to people thinking of changing career?
+      answer: Make sure that you really enjoy what you've chosen.
+    - question: What do you say to people who say £8000 is expensive?
+      answer: It's worth it. You get to meet people and work in a different environment and learn A LOT. £8k is cheap compared to university.
+    - question: What was your biggest worry before joining Makers Academy and how do you feel about it now?
+      answer: I wouldn't find it useful and that I'd been bored. Sometimes I knew more than others but that levelled out towards the end of the course. There were lots of peer teaching opportunities.
+    - question: Sum up your Makers Academy experience
+      answer: It's been good. I've met a lot of different people. The cohort was very diverse. It's been quite surreal experience.
+
 - first_name: Mara
   last_name: Wanot
   image: mara.jpg
