@@ -61,35 +61,6 @@
      - question: Sum up your Makers Academy experience
        answer: Makers Academy has given me a lot of confidence.
 
-- first_name: Wayne
-  last_name: Rumble
-  image: Wayne-Rumble.jpg
-  summary: Semi Professional Skier to Developer
-  testimonial: "The experience was one of the positive active change I've made since university."
-  cohort_month: April
-  cohort_year: 2016
-  categories:
-    case_study:
-     - question: What were you doing before joining Makers Academy?
-       answer: I was selling ski holidays and before that, I was skiing semi professionally
-     - question: What made you want to start learning to code?
-       answer: Something that I've always wanted to do and I've touched on it in the past. i did a bit at school for A-level but not as much as I had wanted
-     - question: How did you come across Makers Academy and what made you decide to apply?
-       answer: I was looking for an internship and one of the companies I spoke to pushed me into the direction of Makers
-     - question: What did you find difficult during the course?
-       answer: Apart from the course itself, the lack of sleep! I got immersed in the course so you do coding every hour of the day
-     - question: What happened during and after graduation and where are you now job wise?
-       answer: I job hunted around a little bit. Went to a few interviews and then a month ago I saw a job in LinkedIn at Smile Machine and I'm there as a Junior Dev
-     - question: How has your life changed since learning to code?
-       answer: I moved house which is different! I go to work with an interest in what I'm doing as opposed to grinding through the monotonous repetition of a job I'm not interested in!
-     - question: What advice would you give to people thinking of changing career?
-       answer: If it's something you're interested in - go for it! Why not! There's no point in doing something you're not interested in.
-     - question: What do you say to people who say £8000 is expensive?
-       answer: It is expensive. But the moment you get a job it doesn't feel expensive though!
-     - question: What was your biggest fear before joining MA and how do you feel about it now?
-       answer: It's very much a leap of faith. Drop what you're doing and pay £8000 pounds and get a job on the other side. I was worried I might not get a job. What if it doesn't work out? Now my worries aren't there because it worked out!
-     - question: Sum up your Makers Academy experience
-       answer: The experience was one of the positive active change I've made since university.
 
 - first_name: Richard
   last_name: Watkins
