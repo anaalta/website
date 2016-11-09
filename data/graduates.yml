@@ -38,7 +38,7 @@
   cohort_month: July
   cohort_year: 2016
   categories:
-    - women
+     - women
     case_study:
      - question: What were you doing before joining Makers Academy?
        answer: I was managing an airline.
