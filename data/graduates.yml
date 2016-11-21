@@ -1,4 +1,4 @@
-
+1 1
 # TEMPLATE FOR FUTURE USE < DO NOT DELETE >
 # - first_name:
 #   last_name:
@@ -41,11 +41,11 @@
    - career-changer
   case_study:
    - question: What were you doing before joining Makers Academy?
-     answer: I was an IT consultant at one of big four.
+     answer: I was an IT consultant at a magic circle firm in the city.
    - question: How did you come across Makers Academy and what made you decide to apply?
-     answer: I was looking for a coding course in London and I got a position at General Assembly. A friend of mine had done Makers that I read his blog which I followed. The attention to best practice is why I chose Makers Academy.
+     answer: I was looking for a coding course in London and I got a position at General Assembly. A friend of mine had done Makers and I was following his blog closely. The attention to best practice is why I chose Makers Academy.
    - question: What did you find difficult on the course?
-     answer: The hardest thing was coding in pairs as it was a new skill in it self. Once you get used to it, it's one of the most enjoyable parts of the experience.
+     answer: The hardest thing was coding in pairs as it was a new skill in itself. Once you get used to it, it's one of the most enjoyable parts of the experience.
    - question: What was your end of cohort project?
      answer: It was MarkPad - a Markdown text editor made from the ground up by our team.
    - question: How has your life changed since learning to code?
@@ -53,9 +53,9 @@
    - question: What advice would you give to people thinking of changing career?
      answer: Do your research and make sure to budget for it. If it's something you want to do then take a leap and you won't look back.
    - question: What do you say to people who say £8000 is expensive?
-     answer: It's not even comparable to paying for a full Masters where you are having to support yourself for at least a year.
+     answer: It's not even comparable to paying for a full Masters where you have to support yourself for at least a year.
    - question: What was your biggest fear before joining MA and how do you feel about it now?
-     answer: I wasn't sure it would live up to my expectations or if I'd be a job ready Junior Developer but all I can say now that I enjoyed every minute of it and I'm still surprised by how much I learnt in a short while.
+     answer: I wasn't sure it would live up to my expectations or if I'd be a job ready Junior Developer. All I can say now that I enjoyed every minute of it and I'm still surprised by how much I learnt in a short while.
    - question: Sum up your Makers Academy experience
      answer: Crazy, nerdy rollercoaster!
 
