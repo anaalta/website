@@ -28,6 +28,35 @@
 #    - question: Sum up your Makers Academy experience
 #      answer:
 
+- first_name: Aday Mesa
+  last_name: Ojeda
+  image: aday.jpg 
+  summary: Hospitality to Junior Developer at ThoughtWorks Spain
+  testimonial: The best learning experience of my life.
+  cohort_month: June
+  cohort_year: 2016
+  categories:
+    - career-changer
+  case_study:
+   - question: What were you doing before joining Makers Academy?
+     answer: I was working in hospitality as I was travelling through different countries.
+   - question: How did you come across Makers Academy and what made you decide to apply?
+     answer: After doing a lot of research Makers Academy seemed to be the best possible transition for me. Their reviews were great, and I also talked with former students at the time and everyone said great things about MA.
+   - question: How did you find learning remotley?
+     answer: It was really good, from the very beginning I felt quite comfortable using the communication tools used by MA. During the entire course I never felt any sort of issue or difficulty related to learn remotely.
+   - question: What was your end of cohort project?
+     answer: It was a 2D game called Makers Invaders. We had 2 weeks to develop it, we used for the first time such a technologies like Phaser to develop games. The experience was amazing, we ended up learning new technologies and having a enjoyable game.
+   - question: How has your life changed since learning to code?
+     answer: Greatly. Learning to code have rewired my way of thinking in general.
+   - question: What advice would you give to people thinking of changing career?
+     answer: Please do. There is nothing better than do what you feel that is right, and if you feel that coding is a good fit for you, do not hesitate.
+   - question: What would you say to people who say £4000 is expensive for an online course?
+     answer: Do not think in what you pay, think in what you get. Getting a job in the tech field with the skills learnt in MA would pay the course in no-time.
+   - question: What was your biggest fear before joining MA and how do you feel about it now?
+     answer: I was afraid of the intensity of the course, as a I heard that was really immersive. I am glad that I have done it, it was as intense as I was afraid of. But now I feel like having superpowers.
+   - question: Sum up your Makers Academy experience
+     answer: Quite immersive and no less enjoyable. The best learning experience of my life.
+
 - first_name: Jack
   last_name: Oddy
   image: jacko.jpg
