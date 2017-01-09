@@ -28,6 +28,36 @@
 #    - question: Sum up your Makers Academy experience
 #      answer:
 
+- first_name: Noah
+  last_name: Pollock
+  image: Noah.jpg
+  summary: DJ and Sound Engineer to Junior Developer at SoleTrader
+  testimonial: "Out of ten, I'll give Makers Academyan eleven."
+  cohort_month: July
+  cohort_year: 2016
+  blog_link: https://knowerlittlemakersblog.herokuapp.com/
+  categories:
+    -career-changer
+  case_study:
+   - question: What were you doing before joining Makers Academy?
+     answer: I was working as a DJ and Sound Engineer
+   - question: How did you come across Makers Academy and what made you decide to apply?
+     answer: The Internet, my girlfriend found it. It was down the road from me and I was pretty good at computers and seeing that everything is now 'tech' I thought why not give it a go! I'll still do music and code!
+   - question: What did you find difficult on the course?
+     answer: I have to say everything. The course itself is very challenging. Keeping yourself at an optimal learning level is hard as you are consuming new information 8 hours a day, 5 days a week. There is no real 'OFF' time once the course starts.
+   - question: What was your end of cohort project?
+     answer: A Bill Splitting Hybrid (iPhone and Android) Phone App that converts a photo of a bill into a digital list of items. The list can be sent to different emails to request payment via Paypal. https://vimeo.com/173473057
+   - question: How has your life changed since learning to code?
+     answer: I've got a new developer job now. I'm becoming a 'day-time' person rather than a 'night-time' person. It has also shaped my 'thinking', I've definitely become a lot more logical and patient with figuring things out. It's also mind-blowing how many jobs are out there and this is just the beginning of the journey as I'll keep getting better!
+   - question: What advice would you give to people thinking of changing career?
+     answer: I think if you're thinking about it then there's something about coding that you are attracted to. I would recommend doing the Ruby course on Codecademy.com and see if you get excited when you figure out how it works. You have to like puzzles and logic. A slight math brain is recommended in my opinion, even though a lot of people say you don't need it, but I definitely think you do.
+   - question: What do you say to people who say £8000 is expensive?
+     answer: It is a lot of money. You could go on a great holiday. You do get quite a well-paid first job coming out and it will only get more from that point onwards. You're also not just paying for those '3 months' as you are able to come into Makers anytime after you graduate to use their desk space and continue doing work. This is invaluable as the environment keeps you inspired and motivated. The jobs team are also constantly helping you once you graduate.
+   - question: What was your biggest fear before joining MA and how do you feel about it now?
+     answer: I had a feeling I could comprehend most concepts around coding but my biggest fear was what if there was a concept that I really didn't get and just couldn't comprehend for the life of me and from there I couldn't progress any further. Luckily the penny does keep dropping and with enough time spent (wisely) on a subject, you'll be able to understand it. Makers preach the 'Not Yet' mindset and constantly tell you it's quite normal to get things later on down the line.
+   - question: Sum up your Makers Academy experience
+     answer: Out of ten, I'll give it an eleven.
+
 - first_name: Daniel
   last_name: Ortiz
   image: daniel-oritz.jpg
