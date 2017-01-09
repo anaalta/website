@@ -30,13 +30,13 @@
 
 - first_name: Jack
   last_name: Oddy
-  image:
+  image: jack.jpg
   summary: Restaurant supervisor to Junior Developer at ANDigital
   testimonial: It's been super intense and good times, bad times, it's been high pressure but I've also met people I think are going to be good friends for a long time.
   cohort_month: September
   cohort_year: 2016
   categories:
-    -career-changer 
+    -career-changer
   case_study:
    - question: What were you doing before joining Makers Academy?
      answer: I was working as a restaurant supervisor in gastro pub.
