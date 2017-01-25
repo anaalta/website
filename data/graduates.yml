@@ -32,6 +32,35 @@
 
 
 
+- first_name: Riya
+  last_name: Pabari
+  image: riya.jpg
+  summary: Startup worker to  Tech Business consulting at Founders Intelligence
+  testimonial: Makers Academy was the most the most stimulating and enjoyable learning experience I've ever had!
+  cohort_month: August
+  cohort_year: 2016
+  blog_link: https://medium.com/@riya_pabari
+  categories:
+    - female
+    - career-changer
+  case_study:
+    - question: What were you doing before joining Makers Academy?
+      answer: I was working for a startup.
+    - question: What made you want to start learning to code in the first place?
+      answer: Prior to my startup job, for a long time I had been interested in tech powered business models and how they achieved scale very quickly. I loved the way they revolutionised the way we interacted. I saw myself as a business person inside a tech company. I wanted to understand the magic of all these brilliant programs.
+    - question: How did you come across Makers Academy and what made you decide to apply?
+      answer: A good friend is Makers alumni and recommended it. I then started doing the material that you guys suggest and loved it. It was so nice to make something from nothing. I found the intellectual challenge very satisfying.
+    - question: What did you find difficult during the course?
+      answer: It's a vast amount of material that you cover in a short amount of time. I went into the course knowing that it would be a fast paced course. I also knew how to prepare.
+    - question: How has your life changed since graduation?
+      answer: I feel like Makers gave me the skill set that can be applied to much broader application as opposed to just coding. The growth mindset is something I practised and I'll use it to solve task in the future. Understanding my own learning processes is something I'll apply in the future.
+    - question: What advice would you give to people thinking of changing career?
+      answer: I would say get up and go for it! The great thing with coding is you can try stuff out on your own and see if it's something you enjoy.
+    - question: What do you say to people who say £8000 is expensive?
+      answer: When you put it in context of a uni degree, it's 1 years worth of a degree. After Makers you are very work ready, much more so than a degree. The best investment you can make is in yourself.
+    - question: Sum up your Makers Academy experience
+      answer: The most stimulating and enjoyable learning experience I've ever had!
+
 - first_name: Jonny
   last_name: Moore
   image: jonny-m.jpg
