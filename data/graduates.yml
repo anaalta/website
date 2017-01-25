@@ -32,9 +32,9 @@
 
 - first_name: Alexander
   last_name: Swann
-  image: alexander-s.jpg
-  summary: "I found a job very quickly after finishing the course."
-  testimonial: Visual effects compositor to Junior Developer at Home Office Digital
+  image: alexender-s.jpg
+  summary: Visual effects compositor to Junior Developer at Home Office Digital
+  testimonial: "I found a job very quickly after finishing the course."
   cohort_month: August
   cohort_year: 2016
   categories:
@@ -43,19 +43,19 @@
     - question: What were you doing before joining Makers Academy?
       answer: Before Makers Academy I was a visual effects compositor. Integrating CG effects into 2D footage.
     - question: How did you come across Makers Academy and what made you decide to apply?
-      answer: I wanted a change in career for better work life balance, better structure and something a bit more technical. I felt like I was gliding through my job and not being mentally stimulated enough so I started look online at web development and learning to code and came across numerous course and MA came up and due to the format of the course and the recruitment process afterwards it felt like the most encouraging format for someone like myself who wanted to get a job as quickly as possible.
+      answer: I wanted a change in career for better work life balance, better structure and something a bit more technical. I felt like I was gliding through my job and not being mentally stimulated enough. I started to look online at web development and learning to code and came across numerous courses and MA came up and due to the format of the course and the recruitment process afterwards it felt like the most encouraging format for someone like myself who wanted to get a job as quickly as possible.
     - question: What did you find difficult during the course?
       answer: The hardest week was week 4 when you learnt the full scope of the three tier web architecture and utilising databases.  After a few days that did sunk in. After a few weeks, the course leaves you to your own devices which makes you try figure things out yourself.
     - question: What was your final project?
-      answer:  <a href='https://www.youtube.com/watch?v=OYk-d6q4iWI'target='_blank'>Smart Mirror.</a>
+      answer:  <a href='https://www.youtube.com/watch?v=OYk-d6q4iWI' target='_blank'>Smart Mirror.</a>
     - question: How has your life changed since graduation?
       answer: It's opened up numerous possibilities for where I can move to in the future. Work for various companies and numerous career routes I could take.  I also found a job very quickly after finishing the course.
     - question: What advice would you give to people thinking of changing career?
       answer: Do your research first and not to think about Makers Academy specifically. Try things out before making any kind of financial or time commitment. If you are still feeling positive about it then I recommend the Makers Academy course.
     - question: What do you say to people who say £8000 is expensive?
-      answer: It is a lot of money but 6-9 months I've learnt a lot more in a short amount of time compared to if I was to learn more on. It comes down to what your time commitments are. I would see this as a fast track way of changing your career as quickly as possible when it comes to something technical as coding.
+      answer: It is a lot of money but 6-9 months I've learnt a lot more in a short amount of time compared to if I was to learn on my own. It comes down to what your time commitments are. I would see this as a fast track way of changing your career as quickly as possible when it comes to something technical as coding.
     - question: What was your biggest fear before joining Makers Academy and how do you feel about it now?
-      answer: I thought I'd be no good and I wouldn't be accepted by the coaches and the other members of the cohort and that I struggled to get a job and that if I did get one that it would come with the same problems i've had in my previous careers. It felt like a gamble when you are paying £8000 so had to just overcome that and get on with it. So far it remains totally worth it and I hope that feeling remains into my new job.
+      answer: I thought I'd be no good and I wouldn't be accepted by the coaches and the other members of the cohort. I was also worried about struggling to get a job or that if I struggled to get a job or having the same problems i've had in my previous careers. It felt like a gamble when you are paying £8000 so had to just overcome that and get on with it. So far it remains totally worth it and I hope that feeling remains into my new job.
     - question: Sum up your Makers Academy experience
       answer: A lot learnt in a short period of time. I feel like I've made numerous connections already in the industry. I hope I can keep those connections active into the future. The campus environment is also good place to come to everyday and everyone is enthusiastic and encouraging.
 
