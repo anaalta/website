@@ -33,50 +33,50 @@
 - first_name: Tadas
   last_name: Majeris
   image: tadas.jpg
-  summary:
-  testimonial: =
+  summary: Bartender to Junior Developer at MeteorFactory
+  testimonial: "It's a great investment and you will pay it off quickly."
   cohort_month: Remote December
   cohort_year: 2016
   categories:
   case_study:
     - question: What were you doing before joining Makers Academy?
-      answer: Long ago I worked as Flash Actionscript developer, then lost my job due to crisis and gave up coding. Spent 6 years working as a bartender
+      answer: Long ago I worked as Flash Actionscript developer, then lost my job due to crisis and gave up coding. Spent 6 years working as a bartender.
     - question: How did you come across Makers Academy and what made you decide to apply?
-      answer: I got a bar job next to Makers Academy and found lots of coders coming for a cool-off pint after everyday coding. Got drawn into it :)
+      answer: I got a bar job next to Makers Academy and found lots of coders coming for a cool-off pint after everyday coding. So that got me drawn into it
     - question: How did you find learning remotley?
-      answer: Was strange in the beginning, but got used to it
+      answer: It was strange in the beginning, but I got used to it.
     - question: How has your life changed since graduation?
-      answer: I love coding, I really missed it :)
+      answer: I love coding, I really missed it!
     - question: What advice would you give to people thinking of changing career?
-      answer: If you are already thinking, then do it
+      answer: If you are already thinking, then do it!
     - question: What would you say to people who say £4000 is expensive for an online course?
-      answer: It's a great investment and will pay off quick. It's the same as the onsite course, but twice as cheap!
+      answer: It's a great investment and you will pay it off quickly. It's the same as the onsite course, but twice as cheap!
     - question: Sum up your Makers Academy experience
       answer: Awesome awesome awesome!
 
 - first_name: Richard
   last_name: Bates
-  image: richardbates.jpg
-  summary:
-  testimonial: =
+  image: remote.jpg
+  summary: Welder to Junior Develope at
+  testimonial:
   cohort_month: September
   cohort_year: 2016
   categories:
   case_study:
     - question: What were you doing before joining Makers Academy?
-      answer: Working as a welder for a couple months after graduating.
-    - question: What made you want to start learning to code in the first place?
+      answer: I was working as a welder for a couple months after graduating from university.
+    - question: How did you come across Makers Academy and what made you decide to apply?
       answer: A friend had gone through a similar process of doing a coding bootcamp after studying science at university. She recommended Makers along with Founders & Coders and I was sold on the remote course as I was currently living back home with my parents.
     - question: How did you find learning remotley?
       answer: Fantastic! I get asked this a lot by those who've done the on site course and they're always pretty shocked at the similarity in skill outcomes. There really wasn't much difference in how we learnt compared to the onsite. I really enjoyed working remotely with others and using screen sharing/conference calls and once the day was over, I'm already home and can do what I need to do without commuting. The only downside I can think of is the lack of social interaction and meeting up at the end of the day. Most of us would carry on working/chilling out independently at the end of the day rather than being able to go out for some food or a pint. For the price difference and convenience however, learning remotely was well worth it!
     - question: What was your final project?
-      answer: MakeItStop! It was a task based alarm clock app written in JavaScript. We decided to use the NativeScript framework (TypeScript & Angular2) and so the app runs on both mobile platforms from one codebase. It was by far my favourite experience from Makers and all four of us carried on building the app after the course. It's currently being verified on the app store and you can sign up for it here:makeitstop.github.io.
+      answer: <a href='https://www.youtube.com/watch?v=WGuyOzGttv0' target='_blank'>MakeItStop!</a>  It was a task based alarm clock app written in JavaScript. We decided to use the NativeScript framework (TypeScript & Angular2) and so the app runs on both mobile platforms from one codebase. It was by far my favourite experience from Makers and all four of us carried on building the app after the course. It's currently being verified on the app store and you can sign up for it <a href='makeitstop.github.io.' target='_blank'>here</a>.
     - question: How has your life changed since graduation?
       answer: I'm finally doing something that I love day-in day-out. You leave with a great foundation in coding and I'm now at a job that allows me to keep on learning.
     - question: What advice would you give to people thinking of changing career?
       answer: Don't jump in straight away! It's a big decision and a long path to go down to become a good mid-level developer. However, I'd recommend coding as much as possible in your free time on free learning sites for at least a few weeks/month. If you still enjoy coding, then put yourself down for Makers 100% ! If you have a passion for tech and coding, you'll have the best 3 months of your life hands down.
     - question: What would you say to people who say £4000 is expensive for an online course?
-      answer: Yeah, I completely agree. It's a lot of money and puts a lot of pressure on you financially at the end of the course when looking for a job. However, salaries in tech are very good and you'll be getting £25-32k for your first job as a junior developer. £4k is a good investment to get yourself in
+      answer: Yeah, I completely agree. It's a lot of money and puts a lot of pressure on you financially at the end of the course when looking for a job. However, salaries in tech are very good and you'll be getting £25-32k for your first job as a junior developer. £4k is a good investment to get yourself in.
     - question: What was your biggest fear before joining Makers Academy and how do you feel about it now?
       answer: My biggest fears were that I'd be severely hindered by doing the course remotely and that I'd be broke and jobless at the end of it. Turns out the remote course is as good if not better for learning(your version control and communication skills will be on point) and I've now got an awesome job.
     - question: Sum up your Makers Academy experience
