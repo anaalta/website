@@ -34,10 +34,12 @@
   last_name: Majeris
   image: tadas.jpg
   summary: Bartender to Junior Developer at MeteorFactory
-  testimonial: "It's a great investment and you will pay it off quickly."
+  testimonial: It's a great investment and you will pay it off quickly.
   cohort_month: Remote December
   cohort_year: 2016
   categories:
+    - remote
+    - career-changer
   case_study:
     - question: What were you doing before joining Makers Academy?
       answer: Long ago I worked as Flash Actionscript developer, then lost my job due to crisis and gave up coding. Spent 6 years working as a bartender.
@@ -57,11 +59,14 @@
 - first_name: Richard
   last_name: Bates
   image: remote.jpg
-  summary: Welder to Junior Develope at
-  testimonial:
+  summary: Welder to Junior Develope at Music Mates
+  testimonial: It was a rollercoaster of emotions! The course was extremely intense but it was well worth it.
   cohort_month: September
   cohort_year: 2016
+  blog_link: https://medium.com/@Meister_Bates
   categories:
+    - career-changer
+    - remote
   case_study:
     - question: What were you doing before joining Makers Academy?
       answer: I was working as a welder for a couple months after graduating from university.
@@ -84,12 +89,16 @@
 
 - first_name: Rebecca
   last_name: Piper
-  image: rebeccapiper.jpg
+  image: rebecca.jpg
   summary: Maths graduate to Junior Develope at Tombola
-  testimonial: =
+  testimonial: Completing the course made me feel more prepared for working in industry and I have a great understanding which has benefited me throughout my time in my current role.
   cohort_month: April
   cohort_year: 2016
+  blog_link: https://www.youtube.com/playlist?list=PLc4BYny7PXeQLLdl_meucEyKl8K9sI0SV
   categories:
+    - female
+    - education-leaver
+    - remote
   case_study:
     - question: What were you doing before joining Makers Academy?
       answer: I’d graduated from university in June 2015 and before joining Makers Academy, I was looking for work as well as trying to figure out what career I wanted to pursue.
@@ -98,11 +107,11 @@
     - question: How did you find learning remotley?
       answer: Initially I wasn’t sure what to expect, as I’d struggled a bit with motivation when I was doing the short online courses available on the other websites. I thought I would get distracted. I learn best with a structure, so I was worried that learning remotely wouldn’t be the best way for me to study, but because MA involved remotely attending lectures/discussions or pair-programming, it made it much easier to remain motivated. I had to work to a schedule, instead of on my time, which was good. MA involved lots of communication with others, with the lecturer and with the other students, which meant that, despite learning remotely, didn’t feel like the only one studying. There was a community of people available for discussion and for help, so it didn’t really feel remote.
     - question: What was your final project?
-      answer: My group designed and developed a website called Recipedia. The idea was initially to have a website that would search recipes via combinations of ingredients – so that people could easily find meals that they could cook given ingredients they already had in their fridge. Users could add and edit their own recipes, and search by recipe name or by a list of ingredients, as well as give a recipe thumbs up or down.
+      answer: My group designed and developed a website called <a href='https://youtu.be/HvAV9ZoBT84?list=PLc4BYny7PXeQLLdl_meucEyKl8K9sI0SV' target='_blank'>Recipedia.</a>. The idea was initially to have a website that would search recipes via combinations of ingredients – so that people could easily find meals that they could cook given ingredients they already had in their fridge. Users could add and edit their own recipes, and search by recipe name or by a list of ingredients, as well as give a recipe thumbs up or down.
     - question: How has your life changed since graduation?
       answer: Learning to code gave me confidence to apply for jobs within the development industry. Prior to doing the course I had researched roles in development and although many accepted maths graduates, I wasn’t sure about how I could apply my skills. Completing the course made me feel more prepared for working in industry and I have a great understanding which has benefited me throughout my time in my current role.
     - question: What advice would you give to people thinking of changing career?
-      answer: Although I wasn’t opting for a career change when I decided to complete MA, I would say that if coding is something you’re interested in and are considering as a career, Makers Academy is a good place to start – get an understanding of how to develop a web application from the ground up, as well as having stand-up’s and retrospective’s and following coding practices
+      answer: Although I wasn’t opting for a career change when I decided to complete MA, I would say that if coding is something you’re interested in and are considering as a career, Makers Academy is a good place to start – get an understanding of how to develop a web application from the ground up, as well as having stand-up’s and retrospective’s and following coding practices.
     - question: What would you say to people who say £4000 is expensive for an online course?
       answer: Makers Academy is twelve very intense weeks – the course is planned and there were remote lectures almost every day. They provided help throughout the course, as well as assisting with career guidance and finding work once the course was over. It is expensive, but I had looked at other, similarly priced, courses before applying and none of them provided the same support and structure as Makers Academy Remote did.
     - question: What was your biggest fear before joining Makers Academy and how do you feel about it now?
@@ -113,18 +122,20 @@
 - first_name: Luke
   last_name: Cartledge
   image: lukecartledge.jpg
-  summary:
-  testimonial: Photographer to Junior Developer at Datanauts
+  summary: Photographer to Junior Developer at Datanauts
+  testimonial: Makers Academy was awesome!
   cohort_month: September
   cohort_year: 2016
   categories:
+    - career-changer
+    - remote
   case_study:
     - question: What were you doing before joining Makers Academy?
-      answer: I was working as an Photographer, Retoucher and Consultant.
+      answer: I was working as an Photographer, retoucher and consultant.
     - question: How did you find learning remotley?
-      answer: Excellent training in using version control and commitment, but harder because we were never quite face-to-face
+      answer: Excellent training in using version control and commitment, but harder because we were never quite face-to-face.
     - question: What was your final project?
-      answer: A cross-platform mobile alarm clock without a snooze button. Built using a single code-base in NativeScript, Angular 2 and Typescript.
+      answer: <a href='https://youtu.be/WGuyOzGttv0?list=PLc4BYny7PXeQijQRnERnUn7TCEFuVuF-E' target='_blank'>Make It Stop!</a>. A cross-platform mobile alarm clock without a snooze button. Built using a single code-base in NativeScript, Angular 2 and Typescript.
     - question: How has your life changed since graduation?
       answer: I am starting a new career and I have a new confidence that I can learn and take on any task given time.
     - question: What advice would you give to people thinking of changing career?
@@ -137,40 +148,45 @@
 - first_name: James
   last_name: Steel
   image: jamessteel.jpg
-  summary:
-  testimonial: =
+  summary: Souf Chef to Junior Developer
+  testimonial:  I have a new job, more confidence and made some new friends.
   cohort_month: September
   cohort_year: 2016
   categories:
+    - career-changer
+    - remote
   case_study:
     - question: What were you doing before joining Makers Academy?
-      answer: I was working as a sous chef
+      answer: I was working as a sous chef.
     - question: How did you find learning remotley?
       answer: It wasn't easy but it was extremely fun. Took a while to get used to and staying motivated was tough at times but overall a fantastic experience
     - question: How has your life changed since learning to code?
-      answer: New job! More confidence and made some new friends. Nothing but positives.
+      answer:  I have a new job, more confidence and made some new friends. Nothing but positives.
     - question: What advice would you give to people thinking of changing career?
       answer: Do it. If you have the chance to do Makers it's so worth it. Becoming a web dev was never something I thought I'd become but Makers made it a reality.
-    - question: What do you say to people who say £8000 is expensive?
+    - question: What would you say to people who say £4000 is expensive for an online course?
       answer: It is. Very. But it's worth it, and it's less than university. You get all the skills needed to actually get a job.
     - question: What was your biggest worry before joining Makers Academy and how do you feel about it now?
-      answer: I'd never get a job. I knew they helped but I didn't think 12 weeks would be enough time to learn enough in order to get a job. well, I got a job and I feel more confident than ever.
+      answer: I'd never get a job. I knew they helped but I didn't think 12 weeks would be enough time to learn enough in order to get a job. Well, I got a job and I feel more confident than ever.
     - question: Sum up your Makers Academy experience
-      answer: Difficult but rewarding
+      answer: Difficult but rewarding.
 
 - first_name: Caitlin
   last_name: Gulliford
   image: caitlin.jpg
-  summary:
-  testimonial: =
+  summary: Unemployed to Junior Developer at ThoughtWorks.
+  testimonial: I have my dream job I feel like I am unstoppable.
   cohort_month: December
   cohort_year: 2016
+  blog_link: https://medium.com/code-crazy
   categories:
+    - female
+    - thoughtworks
   case_study:
     - question: What were you doing before joining Makers Academy?
-      answer: I was unemployed, trying to find work and teach myself how to code
+      answer: I was unemployed, trying to find work and teach myself how to code.
     - question: How did you come across Makers Academy and what made you decide to apply?
-      answer: Word of mouth and online marketing, but I couldn't even consider affording it. I applied then the Women In Tech scholarship with Thoughtworks became available.
+      answer: Word of mouth and online marketing, but I couldn't even consider affording it. I applied then to the <a href='https://youtu.be/o3YktQEcKkw' target='_blank'>Women In Tech scholarship with Thoughtworks</a> and got it!
     - question: What did you find difficult during the course?
       answer: I found that I wasn't really prepared when we started - I couldn't keep up with my course mates or coach on basics like lingo. I also found it hard not for everyone to be results driven - those who did more got more praise in the end and that was a bit disheartening at times as I was struggling to keep up let alone blast ahead. I also found the aggressive hands off approach to be detrimental, especially as not everyone who we paired with was comfortable working with others or good at helping others
     - question: How has your life changed since learning to code?
@@ -186,21 +202,23 @@
 
 - first_name: Alexander
   last_name:  Russell
-  image: alexanderrussel.jpg
-  summary: Head Science technican
-  testimonial: =
+  image: alexanderussell.jpg
+  summary: Physics Teacher to Junior Developer at Compare the Market
+  testimonial: Makers Academy was short, intense and a LOT of fun!
   cohort_month: December
   cohort_year: 2016
   categories:
+    - career-changer
+    - remote
   case_study:
     - question: What were you doing before joining Makers Academy?
       answer: I was working as a Head Science Technician and Physics Teacher.
     - question: How did you find learning remotley?
       answer: Challenging as it could be lonely, however, my cohort were amazing and there was always someone there to support and chat to.
     - question: What was your final project?
-      answer: Street Party WebApp github.com/alexanderwjrussell/street-party
+      answer: <a href='https:github.com/alexanderwjrussell/street-party' target='_blank'> Street Party WebApp</a>
     - question: How has your life changed since learning to code?
-      answer: Enjoy working much more. Have helped friends with their businesses website. Generally happier.
+      answer: I enjoy working much more. I have helped friends with their businesses website. I feel generally happier.
     - question: What advice would you give to people thinking of changing career?
       answer: Do it! Take the gamble and don't look back. I know I haven't. Best decision ever!
     - question: What would you say to people who say £4000 is expensive for an online course?
@@ -212,21 +230,22 @@
 
 - first_name: Felix
   last_name: Harrison
-  image: chuka1.jpg
-  summary: A whirlwind of non-stop learning, fun and table tennis.
-  testimonial: English Teacher to Junior Developer at Softwire
+  image: felix.jpg
+  summary: English Teacher to Junior Developer at Softwire
+  testimonial: A whirlwind of non-stop learning, fun and table tennis.
   cohort_month: December
   cohort_year: 2016
   categories:
+    -career-changer
   case_study:
     - question: How did you come across Makers Academy and what made you decide to apply?
       answer: Through research on the internet and I came in to campus and really liked the vibe and people there.
     - question: What did you find difficult during the course?
       answer: Sometimes keeping motivated to do the weekend challenges.
     - question: What was your end of final project?
-      answer: Ensemble - A music collaboration platform
+      answer: <a href='https://youtu.be/GYj7-HdJvNk?list=PLc4BYny7PXeQijQRnERnUn7TCEFuVuF-E' target='_blank'> Ensemble</a>  - A music collaboration platform
     - question: How has your life changed since learning to code?
-      answer: It has changed a lot. I was able to find a job very quickly after I finished makers and I am loving life and London.
+      answer: It has changed a lot. I was able to find a job very quickly after I finished Makers and I am loving life and London.
     - question: What advice would you give to people thinking of changing career?
       answer: If you have any sort of desire to do it.... just go for it!
     - question: What do you say to people who say £8000 is expensive?
@@ -238,29 +257,30 @@
 
 - first_name: Chetan
   last_name: Sanghani
-  image: chetan.jpg
-  summary: Self taught wordpress web developer to Junior Developer at co-operative web
-  testimonial:
+  image: remote.jpg
+  summary: Self taught wordpress web developer to Junior Developer at Co-operative web
+  testimonial: Makers Academy was positive, wonderful, life changing.
   cohort_month: Decemeber
   cohort_year: 2016
   categories:
+    - remote 
   case_study:
     - question: What were you doing before joining Makers Academy?
-      answer:
+      answer: I was working as a self taught wordpress developer.
     - question: How did you find learning remotley?
-      answer: Fantastic. Not once did I feel inhibited by the fact that I wasn't with the people I was learning with. When I did finally meet up with some of the other students, it wasn't strange or uncomfortable, it was great
+      answer: Fantastic. Not once did I feel inhibited by the fact that I wasn't with the people I was learning with. When I did finally meet up with some of the other students, it wasn't strange or uncomfortable, it was great.
     - question: What was your final project?
-      answer: Our end of cohort project was to build a web app that would help people with the planning of a street party
+      answer:  <a href='https:github.com/alexanderwjrussell/street-party' target='_blank'> Street Party WebApp.</a> Our end of cohort project was to build a web app that would help people with the planning of a street party.
     - question: How has your life changed since learning to code?
       answer: I knew some code before Makers, but that wasn't the most valuable thing I learned here, the mindset MA teaches you about self improvement and learning is just fantastic, it has allowed me to carry on learning after the course was over.
     - question: What advice would you give to people thinking of changing career?
-      answer: Don't think about the money, life is too short to wake up early, to go to a job you hate, to pay for a life you don't enjoy.  When you find the thing that makes you happy... go do it
+      answer: Don't think about the money, life is too short to wake up early, to go to a job you hate, to pay for a life you don't enjoy.  When you find the thing that makes you happy... go do it!
     - question: What would you say to people who say £4000 is expensive for an online course?
-      answer: It's an investment, not a straight cost, you are investing in yourself and isn't that the safest bet? If makers takes you on, you clearly have the potential to succeed
+      answer: It's an investment, not a straight cost, you are investing in yourself and isn't that the safest bet? If Makers takes you on, you clearly have the potential to succeed.
     - question: What was your biggest worry before joining Makers Academy and how do you feel about it now?
-      answer: That I wouldn't be able to complete the course with my hands being as bad as they are, now I'm coding almost 100% by voice
+      answer: That I wouldn't be able to complete the course with my hands being as bad as they are, now I'm coding almost 100% by voice.
     - question: Sum up your Makers Academy experience
-      answer: Positive, wonderful, life changing
+      answer: Positive, wonderful, life changing.
 
 - first_name: Sophie
   last_name: Gill
