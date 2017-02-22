@@ -2,7 +2,6 @@
   summary: Everything you need to get ready for the main course
   image: precourse.png
   blurb: "In the four weeks preceding the full-time course, you are required to complete a mandatory, part-time PreCourse from home. This will ensure that you get to the required level of coding knowledge before starting full time. In the first week, you focus on the foundations: first, the command-line, which is key to navigating around your computer; second, you'll tackle version control using Git and Github. This is followed by learning Ruby syntax through challenges over 3 weeks, culminating in building your Github CV for the start of your coding journey. The PreCourse requires at least 20 hours per week to complete successfully, but the more time you can spend on the PreCourse, the better."
-
 - title: Week 1
   image: tdd.png
   summary: Test-Driven Development and Object-Oriented Programming
