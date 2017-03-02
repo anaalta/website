@@ -10,7 +10,6 @@
 = partial :"_partnerships"
 
 
-/ Analytics event for visiting homepage
+/ Analytics event for visiting partnerships page
 :javascript
-  analytics.track('Viewed homepage', {
-  nonInteraction: 1});
+  analytics.track('Viewed Landing Page', {'Landing Page': 'partnerships'}, {'nonInteraction': 1}));
