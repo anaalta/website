@@ -13,7 +13,7 @@
 = partial :"full_graduates", locals: { category: "acast" }
 
 
-= partial :"meet_our_graduates"
+= partial :"meet_our_partners"
 
 %section.half-slider.half-slider--reverse.with-padding
   .container
@@ -65,5 +65,4 @@
 
 / Analytics event for landing page
 :javascript
-  analytics.track('Viewed Landing Page', {'Landing Page': 'Podcast'});
-  analytics.identify({'Podcast': true});
+  analytics.track('Viewed Landing Page', {'Landing Page': 'Podcast'}, {'nonInteraction': 1});
