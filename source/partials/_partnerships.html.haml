@@ -1,0 +1,17 @@
+%section
+  .container
+    .centered-row
+      %h2 Different ways you can work with us
+    .definition-row
+      %aside#definition-top
+        %nav.definition-links
+          - data.partnerships.each_with_index do |week, index|
+            %a.definition-link{href: "#definition-#{index}"}= week[:title]
+      %article
+        - data.partnerships.each_with_index do |week, index|
+          .category
+            %h4{id: "definition-#{index}"}= week[:title]
+            %dl.definition{id: slug(week[:title])}
+              %dt= week[:summary]
+              %dd
+                %p= week[:blurb]
