@@ -1,0 +1,39 @@
+%section.hero-splash{style: "background-image: url(#{image_path("backgrounds/women.jpg")});"}
+  .container
+    .centered-row
+      = image_tag "logo/ma-white.png", class: "logo"
+      %h1 Recruit brilliant, diverse software engineers whenever you need to
+      %p= We accept 1 in 10 applicants. It just so happens that 51% of them are female.
+    = partial :"email-capture", locals: { button_text: "Meet Candidates", segments: "Entrepreneurs" }
+    %section
+        .container
+          .three-width-row.row-with-borders
+            .column
+              .header-container
+                %h4.leader
+                %h3 We offer
+              %p
+                = "A £500 discount to every woman on our course, equating to over £100,000 invested in women in tech."
+            .column
+              .header-container
+                %h3 We sponsor
+              %p
+                = "Places for women from disadvantaged backgrounds on our course, through partnerships with IBM and Thoughtworks."
+            .column
+              .header-container
+                %h4.leader
+                %h3 We believe
+              %p
+                = "That diverse teams create better business outcomes. Overcoming the gender imbalance is the first step."
+
+                %section.hero{style: "background-image: url(#{image_path("backgrounds/photo-wall.jpg")});"}
+  .container
+    .centered-row
+      %h4.leader
+      %h2
+      %p “Makers Academy gives us a different type of software engineer: people who are work-ready, who bring a breadth of life experience and innovative ways of thinking.”
+      %h4.leader JADE DAUBNEY, RECRUITMENT CHANGE LEAD
+    .three-width-row
+      .column
+        .image--centered
+          = image_tag "hiring-partners/Thoughtworks.png"
