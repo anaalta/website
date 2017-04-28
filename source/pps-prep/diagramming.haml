@@ -1,0 +1,29 @@
+%section.hero-splash{style: "background-image: url(#{image_path("backgrounds/students-overhead-discussion.jpg")});"}
+  .container
+    .centered-row
+      %h1 Learn Ruby Online
+      %h3 Lesson 9: Diagramming
+
+%section
+  .container
+    .video-row
+      .video-wrapper
+        %iframe{src: "https://www.youtube.com/embed/4YHB6y9rMY4", frameborder: 0, allowfullscreen: true}
+  .container
+    .centered-row
+    .centered-row
+      %dl
+        %dt LEARNING OUTCOMES
+        %dd Be able to explain diagramming
+    .centered-row
+      .button-row
+        %p= link_to "Next lesson", "/pps-prep/repl", class: "button button--horizontal"
+    .centered-row
+      .button-row
+        %p= link_to "Previous lesson", "/pps-prep/decomposition-part-2", class: "button button--horizontal"
+
+%section.hero-splash{style: "background-image: url(#{image_path("backgroundsphoto-wall.jpg")});"}
+  .container
+    .centered-row
+      %h3 Video transcription
+      %p I like to imagine objects as circles. What could be simpler? Now we've looked the shutter of a pinhole camera - but what if we want to imagine it as an object in Ruby, so that we can finally start to be programmers? Well let's start by making a shutter object. Fantastic. Now currently we have an empty object that is capable of being a shutter, but until we actually give it some characteristics common with an actual shutter, it's effectively just a word in a circle. Ok, so we're ready to start giving our object some properties so that it may soon come to life and be recognisable as a useful camera-like entity. Let's think about the STATE and BEHAVIOUR that our object might need: It's going to need to be opened. Note the exclamation mark at the end? This is a naming convention. The exclamation mark doesn't do anything magical, we just include it in the name to communicate to other programmers that this variable will change the state of the object. We'll also need a method for closing the shutter. And finally it's going to need to be able to report on what the current state of the shutter object is. Similarly to the bang (!), the question mark is a convention. This time it tells other programmers that when you use this method, you should expect to receive a boolean return value. A boolean return value means it will simply be true, or false. So our diagram should now look like this. Now we have an idea of what it could look like, let's go ahead and start building it!

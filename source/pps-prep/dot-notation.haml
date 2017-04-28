@@ -1,0 +1,29 @@
+%section.hero-splash{style: "background-image: url(#{image_path("backgrounds/students-overhead-discussion.jpg")});"}
+  .container
+    .centered-row
+      %h1 Learn Ruby Online
+      %h3 Lesson 11: Dot notation
+
+%section
+  .container
+    .video-row
+      .video-wrapper
+        %iframe{src: "https://www.youtube.com/embed/OHviP7399ik", frameborder: 0, allowfullscreen: true}
+  .container
+    .centered-row
+    .centered-row
+      %dl
+        %dt LEARNING OUTCOMES
+        %dd Be able to explain and write dot notation
+    .centered-row
+      .button-row
+        %p= link_to "Next lesson", "/pps-prep/classes", class: "button button--horizontal"
+    .centered-row
+      .button-row
+        %p= link_to "Previous lesson", "/pps-prep/repl", class: "button button--horizontal"
+
+%section.hero-splash{style: "background-image: url(#{image_path("backgroundsphoto-wall.jpg")});"}
+  .container
+    .centered-row
+      %h3 Video transcription
+      %p Dot notation is a very simple concept. It literally can be thought of a putting a dot between two words with no space, like this: Let's examine this a little more closely: dot.notation this won't actually do anything in Ruby, since they are just words, not objects and methods. So let's replace them: "hi how are you".upcase What would happen if we ran this code? What's our HYPOTHESIS? "HI HOW ARE YOU" What happened here? Well, we took an object (in this case, a string) and we asked it to use the upcase method, which converts all characters in a string to uppercase.The dot between the object and the method helps us see clearly that the two pieces of syntax are associated. What would happen if we ran the following code: We'd get an error. This is because number objects in Ruby do not currently have an upcase method defined in the Fixnum class - the class that outlines how numbers should behave in Ruby. So in summary, dot notation allows you to call a method associated with an object.

@@ -1,0 +1,29 @@
+%section.hero-splash{style: "background-image: url(#{image_path("backgrounds/students-overhead-discussion.jpg")});"}
+  .container
+    .centered-row
+      %h1 Learn Ruby Online
+      %h3 Lesson 4: Behaviours
+
+%section
+  .container
+    .video-row
+      .video-wrapper
+        %iframe{src: "https://www.youtube.com/embed/vXAQuLpBkW0", frameborder: 0, allowfullscreen: true}
+  .container
+    .centered-row
+    .centered-row
+      %dl
+        %dt LEARNING OUTCOMES
+        %dd Be able to define behvaiours
+        %dd Understand the difference between state and behaviour
+    .centered-row
+      .button-row
+        %p= link_to "Next lesson", "/pps-prep/objects-part-2", class: "button button--horizontal"
+    .centered-row
+      .button-row
+        %p= link_to "Previous lesson", "/pps-prep/state", class: "button button--horizontal"
+
+%section.hero-splash{style: "background-image: url(#{image_path("backgroundsphoto-wall.jpg")});"}
+  .container
+    %h3 Video transcription
+    %p Let's look at a definition of methods. A method is "a particular procedure for accomplishing or approaching something, especially a systematic or established one" Note that these definitions are not programming-specific... They apply to our physical world also. So as far as our camera object goes, can we think of something it would need to "accomplish?" How about taking a picture? Yup, here we have a METHOD, something which directly affects the STATE of our camera object. But even smaller actions (or BEHAVIOURS) count. Think about the act of our camera's shutter opening and closing - this is a BEHAVIOUR. When programming, we would make a method which makes this action happen. Can you think of some other actions a camera might have, which could be methods? How about: Adjusting the aperture size of the camera (to let more or less light in) Adjusting the ISO setting of the camera (to make the film more or less sensitive to light) Activating the flash in low light levels METHODS work to perform actions which in turn can affect the state of our camera.

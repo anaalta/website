@@ -1,0 +1,29 @@
+%section.hero-splash{style: "background-image: url(#{image_path("backgrounds/students-overhead-discussion.jpg")});"}
+  .container
+    .centered-row
+      %h1 Learn Ruby Online
+      %h3 Lesson 3: State
+
+%section
+  .container
+    .video-row
+      .video-wrapper
+        %iframe{src: "https://www.youtube.com/embed/t4ex1n5ddUU", frameborder: 0, allowfullscreen: true}
+  .container
+    .centered-row
+    .centered-row
+      %dl
+        %dt LEARNING OUTCOMES
+        %dd Be able to define state
+    .centered-row
+      .button-row
+        %p= link_to "Next lesson", "/pps-prep/behaviours", class: "button button--horizontal"
+    .centered-row
+      .button-row
+        %p= link_to "Previous lesson", "/pps-prep/objects", class: "button button--horizontal"
+
+%section.hero-splash{style: "background-image: url(#{image_path("backgroundsphoto-wall.jpg")});"}
+  .container
+    .centered-row
+      %h3 Video transcription
+      %p Let's see a definition of STATE: "the particular condition that someone or something is in at a specific time" So the camera has a memory card (or film). This starts off empty, and as you use the camera, the memory card (or film) starts to fill up with more images. The STATE of the camera changes, from being empty to have some number of photos stored on it. What other aspects of a camera might be considered STATE? How about: The size setting of the aperture (so more or less light can be let in) The speed setting of the shutter The sensitivity of the film (or sensor chip) to light (ISO) This ability to have a STATE gives our camera object a kind of property. And even more exciting for us programmers, there's a way to interact with and change STATE.

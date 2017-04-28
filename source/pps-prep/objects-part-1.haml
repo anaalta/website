@@ -1,0 +1,31 @@
+%section.hero-splash{style: "background-image: url(#{image_path("backgrounds/students-overhead-discussion.jpg")});"}
+  .container
+    .centered-row
+      %h1 Learn Ruby Online
+      %h3 Lesson 2: Objects part:1
+
+%section
+  .container
+    .video-row
+      .video-wrapper
+        %iframe{src: "https://www.youtube.com/embed/UDM82S-2dQU", frameborder: 0, allowfullscreen: true}
+  .container
+    .centered-row
+    .centered-row
+      %dl
+        %dt LEARNING OUTCOMES
+        %dd Be able to define a physical objects
+        %dd Explain what software objects are
+        %dd Understand that <b>state</b> and <b>behaviour</b> are ingredients of an object
+    .centered-row
+      .button-row
+        %p= link_to "Next lesson", "/pps-prep/state", class: "button button--horizontal"
+    .centered-row
+      .button-row
+        %p= link_to "Previous lesson", "/pps-prep/Introduction", class: "button button--horizontal"
+
+%section.hero-splash{style: "background-image: url(#{image_path("backgroundsphoto-wall.jpg")});"}
+  .container
+    .centered-row
+      %h3 Video transcription
+      %p In everyday life, an object can be defined as follows: "a material thing that can be seen and touched" With that in mind, here is an object: Think about a camera object. It can be used to capture a vision of a moment in time, and store it somehow (usually on plastic film, or on a memory card.) This amazing ability is bundled up into a little package that you can buy from stores all over the world. What are Objects Made Of? So in the real world, if objects are something we can see and touch, they must have some sort of physical boundary - like an shell. And what's contained within that object's shell? Well, for the camera, it has the ability to store information (pictures) in some way - and it has the ability to change (or add) pictures to that storage facility. When you're programming, it's a very useful skill to be able to identify areas of your code that can be translated into objects. There are two main ingredients of an object: State and Behaviour. Let's look at each of those individually.

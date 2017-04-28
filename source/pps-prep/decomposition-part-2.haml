@@ -1,0 +1,29 @@
+%section.hero-splash{style: "background-image: url(#{image_path("backgrounds/students-overhead-discussion.jpg")});"}
+  .container
+    .centered-row
+      %h1 Learn Ruby Online
+      %h3 Lesson 8: Decomposition Part: 2
+
+%section
+  .container
+    .video-row
+      .video-wrapper
+        %iframe{src: "https://www.youtube.com/embed/EnGbxquPl6o", frameborder: 0, allowfullscreen: true}
+  .container
+    .centered-row
+    .centered-row
+      %dl
+        %dt LEARNING OUTCOMES
+        %dd Be able to explain advanced decomposition
+    .centered-row
+      .button-row
+        %p= link_to "Next lesson", "/pps-prep/diagramming", class: "button button--horizontal"
+    .centered-row
+      .button-row
+        %p= link_to "Previous lesson", "/pps-prep/mvp", class: "button button--horizontal"
+
+%section.hero-splash{style: "background-image: url(#{image_path("backgroundsphoto-wall.jpg")});"}
+  .container
+    .centered-row
+      %h3 Video transcription
+      %p One of the most basic camera devices ever created was the Pinhole Camera - this looks like a fantastic place to start. It meets our criteria of MVP because it is the most basic example of a camera which is still useful - that is, it takes pictures. Sometimes very beautiful ones. Despite the fact that we don't intend to build a physical pinhole camera, it would be no bad thing to have a look at how one is put together. This will give us an idea of what someone might need to know about one in order to build one - which is kind of what we need to know in order to build a representation of one! This diagram pretty much covers the essentials. You can see there's an enclosure, we have the pinhole, or aperture, and at the back of the enclosure we can see the film. We also have the subject being photographed. Did you notice that the image on the film is upside-down? While that's really interesting to the inquisitive mind of a programmer, and while there are many great articles on the internet about how they work. Be warned: this could be a big, procrastination hole. These are very easy to fall down into when programming. Ask yourself this: do you need to know? Knowing when you know enough This is a huge problem for programmers - not least for beginners. How do you know when you know enough to build your app? In many cases you can get very far by pushing ahead until you literally cannot go any further then you have to look something up. This advice can only take you so far, and of course it's possible to take it too literally and end up with software that is not very well thought-out. However, having taught hundreds of beginners how to program, it seems a more common problem is students becoming paralysed by too much research, and too many options. Let's try and keep things on a 'need to know' basis. So, while we are not concerned with the upside-down wizardry of physics, we are going to concentrate on the physical pinhole camera object, and to summarize how we described the features, it has: An enclosure, a film, an aperture. Pretty simple huh? In its most basic form, we could indeed create a camera with just these simple features. However, we're going to push the boat out a little further, and make our camera a tiny bit more complex. We're going to add something that will allow us to manage the flow of light through the aperture (or pinhole). We need, a shutter. A shutter is a simple device that acts as a little door in front of the pinhole aperture. When it's open, light flows into the camera. When it's closed, no light can enter the camera's enclosure, keeping the film in perfect darkness. Let's take a look at the shutter:

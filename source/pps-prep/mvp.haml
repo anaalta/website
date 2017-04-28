@@ -1,0 +1,29 @@
+%section.hero-splash{style: "background-image: url(#{image_path("backgrounds/students-overhead-discussion.jpg")});"}
+  .container
+    .centered-row
+      %h1 Learn Ruby Online
+      %h3 Lesson 7: MVP
+
+%section
+  .container
+    .video-row
+      .video-wrapper
+        %iframe{src: "https://www.youtube.com/embed/Rp9IZ3ExCBg", frameborder: 0, allowfullscreen: true}
+  .container
+    .centered-row
+    .centered-row
+      %dl
+        %dt LEARNING OUTCOMES
+        %dd Understand MVP
+    .centered-row
+      .button-row
+        %p= link_to "Next lesson", "/pps-prep/decomposition-part-2", class: "button button--horizontal"
+    .centered-row
+      .button-row
+        %p= link_to "Previous lesson", "/pps-prep/decomposition-part-1", class: "button button--horizontal"
+
+%section.hero-splash{style: "background-image: url(#{image_path("backgroundsphoto-wall.jpg")});"}
+  .container
+    .centered-row
+      %h3 Video transcription
+      %p Minimum Viable Product is a concept where you do the bare minimum to get the job done. This is a way of managing complexity, whilst giving you the ability to iterate over your code and add features only when it's necessary. To get a true flavour of how MVP works let's look at the following diagram. Notice how the preferred method has something that serves a purpose relatable to the end product, at each step? Every stage produces some kind of vehicle - as opposed to the less desirable position of having useless components that only become helpful at the final stage. MVP gives us the opportunity to reflect on our design at all stages, whilst making it plausible that we might stop production earlier than expected if we think we solved our original problem in a more simple way. Is it absolutely necessary for us to build a car, if one of preceding vehicles satisfies the customer's needs? If this is confusing, just try and think of it this way - what is the minimum, most useful camera object we can build?

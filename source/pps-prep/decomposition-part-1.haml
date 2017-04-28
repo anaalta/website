@@ -1,0 +1,31 @@
+%section.hero-splash{style: "background-image: url(#{image_path("backgrounds/students-overhead-discussion.jpg")});"}
+  .container
+    .centered-row
+      %h1 Learn Ruby Online
+      %h3 Lesson 6: Decomposition Part: 1
+
+%section
+  .container
+    .video-row
+      .video-wrapper
+        %iframe{src: "https://www.youtube.com/embed/EnGbxquPl6o", frameborder: 0, allowfullscreen: true}
+  .container
+    .centered-row
+    .centered-row
+      %dl
+        %dt LEARNING OUTCOMES
+        %dd Be able to explaing decomposition
+        %dd Understand that many objects can be decomposed into smaller, <b>component</b> objects
+        %dd Recognise that complexity can and should be reduced
+    .centered-row
+      .button-row
+        %p= link_to "Next lesson", "/pps-prep/mvp", class: "button button--horizontal"
+    .centered-row
+      .button-row
+        %p= link_to "Previous lesson", "/pps-prep/objects-part-2", class: "button button--horizontal"
+
+%section.hero-splash{style: "background-image: url(#{image_path("backgroundsphoto-wall.jpg")});"}
+  .container
+    .centered-row
+      %h3 Video transcription
+      %p While Decomposition might sound pretty gross, actually it's incredibly useful when working as an Object Oriented Programmer. Let's take a camera object: This is rather simplistic. A Camera is actually made up of lots of different parts that all work together to take pictures. As a programmer, you are interested in all of these parts. Decomposition is the practice of analysing something and identifying the composite states and behaviours, before grouping them into smaller objects. Building Things We might not all have access to the kind of training and facilities which will allow us to make a physical camera - but we're programmers now. We have all the tools we need to make the software equivalent! And you might ask "what's the use in that?" Well, if you've seen a mobile telephone, tablet or even hand-held games console with a camera built-in, you'll know that cameras are everywhere! While the camera hardware on these devices is built by skilled hardware engineers, they still need software engineers to give users the ability to translate certain camera behaviours such as: Change Focus, Alter Shutter Speed, Change picture mode (sports, outdoor etc), Take the picture, Look at pictures in memory, Delete pictures. You get the idea. There's lots of stuff you can do with a camera - and without software to tell that hardware what to do, it's just a bunch of fancy components taking up room on a device. One of the most important parts of starting an applications is understanding the problem domain. So, let's talk about what we want to achieve. Our aim, is to understand the components which make up a camera, and replicate them using code. We will start by finding a diagram online of camera anatomy. A quick search gives us many options to look at - all with varying levels of complexity or perhaps even How do we know which diagram is the right one for us to base our camera on? For the purposes of this course, I am going to follow the principle of Minimum Viable Product (MVP). This is a fantastic practice to get into, and will really help you plan out your projects, so let's take a little bit of time to explore this idea.

@@ -1,0 +1,38 @@
+%section.hero-splash{style: "background-image: url(#{image_path("backgrounds/students-overhead-discussion.jpg")});"}
+  .container
+    .centered-row
+      %h1 Learn Ruby Online
+      %h3 Course map
+
+%section
+  .container
+    %p Welcome to the course. Over the next 16 lessons, you will learn the basics of programming with Ruby. We will cover all you need to know to get started and you will soon be well on your way to becoming a developer with Makers Academy. Each lesson has a set of learning objectives as well as a few exercises for you to sink your teeth into. We recommend that you adopt a mastery learning technique while taking the course. Put simply, this is making sure you understand something as much as possible before moving onto the next lecture.
+  .container
+    .centered-row
+      .column
+        %dl
+          %br
+          %dt Lesson map
+          %dd 1. <a href="/pps-prep/introduction">Introduction</a>
+          %dd 2. <a href="/pps-prep/objects-part-1">Objects Part:1</a>
+          %dd 3. <a href="/pps-prep/state">State</a>
+          %dd 4. <a href="/pps-prep/behaviours">Behvaiours</a>
+          %dd 5. <a href="/pps-prep/objects-part-2">Objects Part:2</a>
+          %dd 6. <a href="/pps-prep/decomposition-part-1">Decomposition Part:1</a>
+          %dd 7. <a href="/pps-prep/mvp">MVP</a>
+          %dd 8. <a href="/pps-prep/decomposition-part-2">Decomposition Part:2</a>
+          %dd 9. <a href="/pps-prep/diagramming">Diagamming</a>
+          %dd 10. <a href="/pps-prep/repl">REPL setup</a>
+          %dd 11. <a href="/pps-prep/dot-notation">Dot Notation</a>
+          %dd 12. <a href="/pps-prep/classes">Classes</a>
+          %dd 13. <a href="/pps-prep/variables">Variables</a>
+          %dd 14. <a href="/pps-prep/methods">Methods</a>
+          %dd 15. <a href="/pps-prep/scope">Scope</a>
+          %dd 16. <a href="/pps-prep/Petri Dish">Petri Dish</a>
+  .container
+    .centered-row
+      .button-row
+        %br
+        %p= link_to "Start the course!", "/pps-prep/introduction", class: "button button--horizontal"
+
+= partial :"primary_call_to_action"
