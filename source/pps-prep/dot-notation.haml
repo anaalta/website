@@ -8,7 +8,7 @@
   .container
     .video-row
       .video-wrapper
-        %iframe{src: "https://www.youtube.com/embed/OHviP7399ik", frameborder: 0, allowfullscreen: true}
+        %iframe{src: "https://www.youtube.com/embed/erv4y47moWo", frameborder: 0, allowfullscreen: true}
   .container
     .centered-row
     .centered-row
@@ -24,6 +24,8 @@
 
 %section.hero-splash{style: "background-image: url(#{image_path("backgroundsphoto-wall.jpg")});"}
   .container
-    .centered-row
-      %h3 Video transcription
-      %p Dot notation is a very simple concept. It literally can be thought of a putting a dot between two words with no space, like this: Let's examine this a little more closely: dot.notation this won't actually do anything in Ruby, since they are just words, not objects and methods. So let's replace them: "hi how are you".upcase What would happen if we ran this code? What's our HYPOTHESIS? "HI HOW ARE YOU" What happened here? Well, we took an object (in this case, a string) and we asked it to use the upcase method, which converts all characters in a string to uppercase.The dot between the object and the method helps us see clearly that the two pieces of syntax are associated. What would happen if we ran the following code: We'd get an error. This is because number objects in Ruby do not currently have an upcase method defined in the Fixnum class - the class that outlines how numbers should behave in Ruby. So in summary, dot notation allows you to call a method associated with an object.
+    %h3 Video transcription
+    %p Dot notation is a very simple concept. It literally can be thought of a putting a dot between two words with no space, like this: Let's examine this a little more closely: dot.notation this won't actually do anything in Ruby, since they are just words, not objects and methods. So let's replace them: "hi how are you".upcase
+    %p What would happen if we ran this code? What's our hypothesis?
+    %p "HI HOW ARE YOU" What happened here? Well, we took an object (in this case, a string) and we asked it to use the upcase method, which converts all characters in a string to uppercase.The dot between the object and the method helps us see clearly that the two pieces of syntax are associated.
+    %p What would happen if we ran the following code: "2.upcase" we'd get an error. This is because number objects in Ruby do not currently have an upcase method defined in the Fixnum class - the class that outlines how numbers should behave in Ruby. So in summary, dot notation allows you to call a method associated with an object.
